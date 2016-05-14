@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1461323547 source:c:\users\wangh\desktop\neuralnetwork\main.cpp
+	<iostream>
+	"include/Neuron.h"
+	"include/Net.h"
+
+1461067000 c:\users\wangh\desktop\neuralnetwork\include\neuron.h
+	<vector>
+	"sigmoid.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
+1460981082 c:\users\wangh\desktop\neuralnetwork\include\sigmoid.h
+	<cmath>
+
+1461242178 source:c:\users\wangh\desktop\neuralnetwork\src\neuron.cpp
+	"../include/Neuron.h"
+
+1461075589 source:c:\users\wangh\desktop\neuralnetwork\src\sigmoid.cpp
+	"../include/sigmoid.h"
+
+1461324322 source:c:\users\wangh\desktop\neuralnetwork\src\net.cpp
+	"Net.h"
+
+1461323383 c:\users\wangh\desktop\neuralnetwork\include\net.h
+	"../include/Neuron.h"
+	<cstdio>
+	<vector>
+
